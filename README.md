@@ -45,7 +45,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: JavaScript (ES6+), C#, SQL
+- **Languages**: JavaScript (ES6+), TypeScript, C#, SQL
 - **Frontend Frameworks**: Angular, React, Vue.js
 - **Backend Technologies**: Node.js, Express.js
 - **Databases**: PostgreSQL, MongoDB, Mongoose
