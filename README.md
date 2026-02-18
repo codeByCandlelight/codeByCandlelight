@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Terry Tilley
+# 👋🏽 Hi, I'm Terry Tilley
 
 I’m a **Full-Stack Developer**, **Technical Educator**, and **Developer Advocate** with a passion for building impactful, user-focused solutions and empowering others to thrive in tech.  
 
