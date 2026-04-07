@@ -1,82 +1,68 @@
 # 👋🏽 Hi, I'm Terry Tilley
 
-I’m a **Full-Stack Developer**, **Technical Educator**, and **Developer Advocate** with a passion for building impactful, user-focused solutions and empowering others to thrive in tech.  
+I work at the intersection of **engineering**, **learning**, and **organizational performance**.
 
-With a background spanning public and private sectors, I blend technical expertise with over **9,100 hours** of mentoring and teaching experience to drive meaningful results.
+I’ve led large-scale technical training programs, partnered with leadership to improve outcomes, and built systems that help teams actually apply what they learn in real environments.
 
----
-
-## 📋 Table of Contents
-1. [About Me](#-about-me)
-2. [Key Highlights](#-key-highlights)
-3. [Tech Stack](#-tech-stack)
-4. [Featured Projects](#-featured-projects)
-5. [Certifications](#-certifications)
-6. [Let’s Collaborate](#-lets-collaborate)
+Along the way, I’ve also built and contributed to production systems as a full-stack developer.
 
 ---
 
-## 💡 About Me
-- 🌟 Transitioning from primarily mentoring developers to actively coding and contributing to impactful projects daily.  
-- 🌱 Continuously learning and enhancing my skills in:
-  - **React 18**: Building dynamic and scalable frontend applications.
-  - **TypeScript**: Writing maintainable and strongly-typed codebases.
-  - **AWS**: Exploring serverless architectures and cloud-based solutions.
-  - **Build Tools & DevOps**: Revisiting tools like Webpack and Docker to refine my understanding of modern workflows.
+## 💡 What I Do
 
+- Design and lead **learning systems** that drive real performance change  
+- Partner with **engineering teams and leaders** to close capability gaps  
+- Translate complex technical concepts into **clear, usable workflows**  
+- Build and contribute to **full-stack applications and dev tools**  
 
 ---
 
-## 🌟 Key Highlights
-- 💻 **Open Source Leader**: Major contributor to [OverVue](https://github.com/open-source-labs/OverVue), a **Vue.js prototyping tool** with **2,400+ GitHub stars**, simplifying workflows for thousands of developers worldwide.  
-- 🚀 **Innovative Solutions at NPR**: Spearheaded the integration of **Speechmatics API** into NPR’s Nexus platform, enhancing transcription workflows for **600+ journalists**, saving hours of manual effort weekly.  
-- 📚 **Instructional Excellence**: Delivered **600+ hours** of technical instruction in private industry and **8,500+ hours** at TSA, revamping training programs and implementing virtual learning solutions to increase engagement and scalability.  
-- 🛠️ **Technical Expertise**: Skilled in **React**, **Angular**, **TypeScript**, **Node.js**, **C#**, **SQL**, and modern DevOps workflows.
+## 🌟 Selected Highlights
+
+- 💻 **Open Source (OverVue)**  
+  Core contributor to [OverVue](https://github.com/open-source-labs/OverVue), a Vue.js prototyping tool with 2,400+ stars used by developers worldwide  
+
+- 🚀 **NPR (Full-Stack Engineering)**  
+  Integrated Speechmatics API into internal newsroom systems, improving transcription workflows and reducing manual effort across editorial teams  
+
+- 📈 **Program Leadership (Codesmith)**  
+  Led a 42-week engineering workforce program, redesigning assessment and support systems to increase success rates from 39.5% to 68.6%  
+
+- 📚 **Leadership Development (TSA)**  
+  Led national training initiatives impacting 50,000+ personnel across a complex federal system  
 
 ---
 
-- ## 🔧 Tech Stack
+## 🔧 Tech Stack
+
 - **Languages**: JavaScript (ES6+), TypeScript, C#, SQL  
-- **Frontend Frameworks**: React, Vue.js, Angular  
-- **Backend Technologies**: Node.js, Express.js  
-- **Build Tools**: Familiarity with Webpack, GitHub Actions, CI/CD Pipelines  
-- **DevOps & Cloud**: Exposure to Docker, AWS (S3, Lambda)  
-- **Other Skills**: REST APIs, TDD, Functional Programming, OOP  
+- **Frontend**: React, Vue, Angular  
+- **Backend**: Node.js, Express  
+- **Systems**: REST APIs, CI/CD, GitHub Actions  
+- **Cloud & DevOps**: AWS (S3, Lambda), Docker  
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Work
 
-### **[Speechmatics API Integration (NPR)](https://www.npr.org/)**
-- **Role**: Led the integration of Speechmatics API into Nexus, NPR’s proprietary internal tool.  
-- **Key Contributions**:
-  - Automated transcription workflows, boosting efficiency by **30%**.  
-  - Designed backend solutions in **C#** and **SQL** for seamless API interactions.  
-  - Aligned technical solutions with editorial needs across NPR’s national newsroom.  
+### **OverVue**
+Dev tool for visualizing Vue component architecture and state flow  
+→ https://github.com/open-source-labs/OverVue  
 
----
-
-### **[OverVue](https://github.com/open-source-labs/OverVue)**
-- **Role**: Core contributor for version 3, focused on improving user workflows.  
-- **Key Contributions**:
-  - Designed features for real-time visualization of Vue.js component hierarchies.  
-  - Enhanced Vuex state management for advanced debugging and time-travel features.  
-  - Collaborated with a team to deliver a polished, developer-friendly tool.  
+### **Speechmatics Integration (NPR)**
+Backend integration improving newsroom transcription workflows and efficiency  
 
 ---
 
 ## 📜 Certifications
-- 🎓 **Certified ScrumMaster (CSM)**: Agile project management expertise to streamline team collaboration and workflows.  
-- 🎓 **Software Engineering Immersive Graduate**: Advanced full-stack development training from Codesmith.
+
+- Certified ScrumMaster (CSM)  
+- Software Engineering Immersive, Codesmith  
+- Certified Leadership Instructor (TSA)  
 
 ---
 
-## ⚡ Fun Fact
-I recently completed a **120-mile relay race** from **Los Angeles to San Diego**, proving that teamwork and determination can go the distance—literally!
+## 🤝 Let’s Connect
 
----
-
-## 💬 Let’s Collaborate
-If you’re looking to collaborate on impactful projects, mentor developers, or discuss emerging tech, let’s chat:  
-- **LinkedIn**: [Terry Tilley](https://linkedin.com/in/t-l-tilley)  
-- **Calendly**: [Let’s Chat](https://calendly.com/terryltilley/coffee-chat)
+- LinkedIn: https://linkedin.com/in/t-l-tilley  
+- Calendly: https://calendly.com/terryltilley/coffee-chat  
