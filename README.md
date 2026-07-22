@@ -1,10 +1,12 @@
-# 👋🏽 Hi, I'm Terry Tilley
+# 👋🏽 Hi, I’m Terry Tilley
 
-I work at the intersection of **engineering**, **learning**, and **organizational performance**.
+I’m a developer-education and technical-enablement leader with full-stack engineering experience.
 
-I’ve led large-scale technical training programs, partnered with leadership to improve outcomes, and built systems that help teams actually apply what they learn in real environments.
+I design hands-on labs, technical curriculum, GitHub learning environments, instructor-enablement systems, and AI-assisted workflows that help people move from explanation to confident application.
 
-Along the way, I’ve also built and contributed to production systems as a full-stack developer.
+My work combines software engineering, technical instruction, learning design, and program leadership across workforce, university, public-sector, and enterprise environments.
+
+[Portfolio](https://app.notion.com/p/terry-l-tilley-portfolio/Terry-Tilley-Developer-Education-Technical-Enablement-f2fcecbc0d09835498cc81be7f3e7691?source=copy_link)
 
 ---
 
@@ -20,16 +22,16 @@ Along the way, I’ve also built and contributed to production systems as a full
 ## 🌟 Selected Highlights
 
 - 💻 **Open Source (OverVue)**  
-  Core contributor to [OverVue](https://github.com/open-source-labs/OverVue), a Vue.js prototyping tool with 2,400+ stars used by developers worldwide  
+  V3 contributor to [OverVue](https://github.com/open-source-labs/OverVue), an open-source Vue.js prototyping tool whose repository now holds 2,400+ stars 
 
 - 🚀 **NPR (Full-Stack Engineering)**  
   Integrated Speechmatics API into internal newsroom systems, improving transcription workflows and reducing manual effort across editorial teams  
 
 - 📈 **Program Leadership (Codesmith)**  
-  Led a 42-week engineering workforce program, redesigning assessment and support systems to increase success rates from 39.5% to 68.6%  
+  Led a 42-week engineering workforce program, improving first-time, student-level final-assessment success from 39.5% to 68.6% 
 
 - 📚 **Leadership Development (TSA)**  
-  Led national training initiatives impacting 50,000+ personnel across a complex federal system  
+  Led national learning initiatives within a distributed federal organization of 50,000+ personnel
 
 ---
 
@@ -58,11 +60,11 @@ Backend integration improving newsroom transcription workflows and efficiency
 
 - Certified ScrumMaster (CSM)  
 - Software Engineering Immersive, Codesmith  
-- Certified Leadership Instructor (TSA)  
+- Certified DHS/TSA Instructor
 
 ---
 
 ## 🤝 Let’s Connect
 
-- LinkedIn: https://linkedin.com/in/t-l-tilley  
-- Calendly: https://calendly.com/terryltilley/coffee-chat  
+- LinkedIn: [Terry Tilley](https://linkedin.com/in/t-l-tilley)
+- Calendly: [Schedule a conversation](https://calendly.com/terryltilley/coffee-chat)  
